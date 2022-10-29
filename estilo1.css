@@ -1,0 +1,57 @@
+* {
+	font-family: 'Lobster', cursive;
+	font-weight: 100;
+}
+
+h1 {
+
+	background-color: gray;
+	padding: 15px;
+	box-sizing: border-box;
+	text-align: center;
+	border-radius: 2em;
+
+}
+
+html {
+
+	background-image: linear-gradient(200deg ,red 10%, gray 40%, pink, darkred)
+
+}
+
+p,h2 {
+	color: black;
+	text-align: center;
+}
+
+h1 {
+
+	text-align: center;
+	padding: 20px 50px;
+}
+
+p {
+	text-align: center;
+	padding: 5px;
+}
+
+h2 {
+	color: blue;
+}
+
+img {
+	display: block;
+	margin: 0px auto;
+	height: 300px;
+	padding: 10px 10px 10px 20px;
+	border-radius: 2em;
+	box-sizing: border-box;
+}
+
+a {
+	background-color: hotpink;
+	border: 1px solid black;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 2em;
+}
